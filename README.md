@@ -1,7 +1,8 @@
 # Car-Rental-Agency
+Node_Module included in zip file.
 
-Nodemon is included
 
+Nodemon is included--
 1. Extract.
 
 2. npm install    //Will install required 3rd party packages.
